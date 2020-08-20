@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://es.gravatar.com/userimage/149499670/d5810581520bf883b3dba65e8806bd4a?size=200" alt="gravatar" /> </p>
+<!--<p align="center"> <img src="https://es.gravatar.com/userimage/149499670/d5810581520bf883b3dba65e8806bd4a?size=200" alt="gravatar" /> </p>-->
 <h1 align="center">Hi, I'm Raymond Coplin</h1>
 <h3 align="center">⚡ Fullstack Developer ⚡</h3>
 
