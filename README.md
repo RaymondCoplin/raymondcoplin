@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondcoplin" alt="raymondcoplin" /> </p>
 
-- 📚 Angular Dominicana (**@ngDominican**) Founder
+- 📚 Angular Dominicana (**<a href="https://twitter.com/@ngDominican">@ngDominican</a>**) Founder
 
 - 💬 Ask me about **Angular, Reactive Programming, TypeScript and Javascript**
 
