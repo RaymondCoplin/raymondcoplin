@@ -5,12 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondcoplin" alt="raymondcoplin" /> </p>
 
+- 📚 Angular Dominicana (**@ngDominican**) Founder
 
 - 💬 Ask me about **Angular, Reactive Programming, TypeScript and Javascript**
 
-- 📫 How to reach me **rcoplin@perxist.com**
-
-- 🔗 Follow me on **Twitter:** <a href="https://twitter.com/raymondcoplin">@raymondcoplin</a>, **Instagram:** <a href="https://instagram.com/raymondcoplin">@raymondcoplin</a>
+- 📫 How to reach me **rcoplin@perxist.com**, **Twitter:** <a href="https://twitter.com/raymondcoplin">@raymondcoplin</a>, **Instagram:** <a href="https://instagram.com/raymondcoplin">@raymondcoplin</a>
 
 <p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="50" height="50"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
